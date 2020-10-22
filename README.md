@@ -12,14 +12,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-<img align="left" alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="left" alt="python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-<img align="left" alt="linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img align="left" alt="ubuntu" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-<img align="left" alt="git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-<img alt="vim" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
+<img align="left" alt="C" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img align="left" alt="C++" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="python" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" alt="python" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+<img align="left" alt="linux" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img align="left" alt="ubuntu" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+<img align="left" alt="git" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+<img alt="vim" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
 
 ---
 
